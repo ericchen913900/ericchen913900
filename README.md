@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%9A%A9+One+CTF+a+day+keeps+the+rust+away.)](https://git.io/typing-svg)
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph-ericchen913900.vercel.app/graph?username=ericchen913900&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ericchen913900" />
+    <img  src="https://github-profile-trophy.vercel.app/?username=ericchen913900" />
+</div>
 
 
 
