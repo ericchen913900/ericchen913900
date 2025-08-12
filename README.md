@@ -24,15 +24,18 @@
   <br><br>
   
     <h3>🛠️ Skills & Tools</h3>
-  <p>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" alt="Git" /></a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python"/></a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux"/></a>
-    <a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white" alt="kali-linux"/></a>
-    <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="wireshark"/></a>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,linux,kali,wireshark,docker,vim,vscode&theme=dark" />
+  </a>
+</div>
   </p>
   <br>
-  
+  <div align="center">
+<span>&emsp;&emsp;</span>
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=ericchen913900" /><span>&emsp;&emsp;</span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjqz177&layout=compact&langs_count=8" />
+<span>&emsp;&emsp;</span>
+</div>
     <h3>📫 Connect with Me</h3>
   <p>
     <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
@@ -43,3 +46,4 @@
   
     <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="snake-contribution-grid" />
 </div>
+---
