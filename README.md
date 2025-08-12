@@ -3,8 +3,8 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=%F0%9F%9A%A9+One+CTF+a+day+keeps+the+rust+away." alt="Typing SVG" />
   </a>
   <br><br>
-  <h2>👋 Hi, I'm Eric - CTF Enthusiast & Developer</h2>
-  <p>hoooooooooooooooooooooooooooooooo！</p>
+  <h2>👋 Hi, I'm Yeeeeeeeeeeeeeeeeeeeeee - CTF Enthusiast & Developer</h2>
+  <p>yeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee！</p>
   <br>
   
   <!-- 新增：动态引言 -->
