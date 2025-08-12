@@ -4,16 +4,24 @@
   </a>
   <br><br>
   <h2>👋 Hi, I'm Eric - CTF Enthusiast & Developer</h2>
-  <p>helloooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo！</p>
+  <p>hoooooooooooooooooooooooooooooooo！</p>
   <br>
   
-  <!-- GitHub Stats 和 Top Languages 并排 -->
+  <!-- 新增：动态引言 -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="600px" />
+  <br><br>
+  
+  <!-- GitHub Stats 和 Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api?username=ericchen913900&show_icons=true&theme=tokyonight&border_radius=10" alt="Eric's GitHub stats" height="170px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericchen913900&layout=compact&langs_count=8&theme=tokyonight&border_radius=10" alt="Eric's Top Languages" height="170px" />
   <br><br>
   
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ericchen913900&theme=tokyonight&border_radius=10" alt="Eric's GitHub Streak" width="500px" />
+  <br><br>
+  
+  <!-- 新增：WakaTime Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ericchen913900&theme=tokyonight&border_radius=10&layout=compact" alt="WakaTime Stats" width="500px" />
   <br><br>
   
   <!-- Profile Trophies -->
@@ -41,14 +49,13 @@
   </p>
   <br>
   
-  <!-- 社交链接和访问计数 -->
+  <!-- 新增：访问计数器和社交 -->
   <h3>📫 Connect with Me</h3>
   <p>
     <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
     <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-    <!-- 添加您的实际链接 -->
   </p>
-  <img src="https://komarev.com/ghpvc/?username=ericchen913900&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ericchen913900&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views" />
   <br><br>
   
   <!-- Contribution Snake -->
