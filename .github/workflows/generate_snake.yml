@@ -1,4 +1,4 @@
-name: Refresh Profile Assets
+name: Generate Snake
 
 on:
   schedule:
@@ -9,7 +9,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: profile-assets
+  group: contribution-snake
   cancel-in-progress: true
 
 jobs:
