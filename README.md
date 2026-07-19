@@ -8,7 +8,7 @@ I build practical security tooling and study how real systems fail.
 My work focuses on authorized testing, exploitability analysis, web security,
 Windows internals, and reproducible CTF research.
 
-[![Profile assets](https://github.com/ericchen913900/ericchen913900/actions/workflows/profile_assets.yml/badge.svg)](https://github.com/ericchen913900/ericchen913900/actions/workflows/profile_assets.yml)
+[![Generate Snake](https://github.com/ericchen913900/ericchen913900/actions/workflows/generate_snake.yml/badge.svg)](https://github.com/ericchen913900/ericchen913900/actions/workflows/generate_snake.yml)
 ![Profile views](https://komarev.com/ghpvc/?username=ericchen913900&style=flat-square&color=2ea043)
 
 </div>
